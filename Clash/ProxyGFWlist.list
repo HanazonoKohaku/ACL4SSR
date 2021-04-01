@@ -1,6 +1,7 @@
 # 代理列表
 
 # MyList && Other
+IP-CIDR,47.245.0.0/16,no-resolve
 DOMAIN-SUFFIX,nekomc.net
 DOMAIN-SUFFIX,mitokohaku.cn
 DOMAIN-SUFFIX,1password.com
